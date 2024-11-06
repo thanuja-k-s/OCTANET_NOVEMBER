@@ -1,6 +1,6 @@
 # Online Learning Platform
 
-This project is a simple frontend interface for an online learning platform. It includes a hero section, benefits list, book section, testimonials, and a download section. This project uses HTML, CSS, and JavaScript to create a responsive and visually engaging layout.
+This project is a simple frontend interface for an online learning platform. It includes a hero section, benefits list, book section, testimonials, and a download section. This project uses HTML, CSS to create a visually engaging layout.
 
 
 ## Features
@@ -17,11 +17,7 @@ This project is a simple frontend interface for an online learning platform. It 
 
 1. **Clone the Repository**: Clone this repository to your local machine.
    
-   
-2. **Navigate to the Directory**:
-
-   
-3. **Open `index.html` in a Browser**: Simply open `index.html` in your preferred browser to view the site.
+2. **Open `index.html` in a Browser**: Simply open `index.html` in your preferred browser to view the site.
 
 ## Usage
 
